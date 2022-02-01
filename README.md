@@ -13,5 +13,14 @@
 2. Os dados disponibilizados pela companhia demostram, no mesmo período, que mais de 70% dos pedidos foram entregues no eixo Sul-Sudeste, uma vez que essas regiões possuem densa rede de transporte e valor de frete menor se comparado com regiões periféricas do país;
 3. A partir destes dados, verifica-se, ainda, que a distribuição de vendedores e vendas nos estados é irregular: estado de SP concentra, por exemplo, 60% dos vendedores e 40% do faturamento da companhia.
 
+![image](https://user-images.githubusercontent.com/89212899/151978158-16452e70-82c5-43ce-b232-b89f523f527b.png)
+
+![image](https://user-images.githubusercontent.com/89212899/151978197-07e7ab4e-f6c6-4a90-a663-2b89ba09ce3f.png)
+
+![image](https://user-images.githubusercontent.com/89212899/151978229-6cd7ac1e-d784-420e-a7d3-cf06bd8f731d.png)
+
+![image](https://user-images.githubusercontent.com/89212899/151978252-629c8e58-b037-412c-99a3-5fd5c1125781.png)
+
+
 
 
